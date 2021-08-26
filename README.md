@@ -1,24 +1,11 @@
-# vuex_practice
+# Vue.JS Vuex counter #
 
-## Project setup
-```
-npm install
-```
+### Technology Stack: ###
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* HTML;
+* CSS;
+* JavaScript;
+* Vue.JS 3;
+* Vuex.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## [DEMO LINK](https://billizane.github.io/vue_js_vuex_counter/) ##
